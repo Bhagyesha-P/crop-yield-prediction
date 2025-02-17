@@ -27,7 +27,6 @@ This repository contains a machine learning system for accurately predicting cro
     - **Production**
     - **Rainfall**
     - **Minimum Selling Price**
-    - **Yield**
   - Preprocessing steps include handling missing values, encoding categorical variables, and normalizing numerical features.
 
 - **Model Selection and Training**:
